@@ -1,0 +1,4 @@
+<?php
+$name="panli";
+?>
+<%=$name%>
